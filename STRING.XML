@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- App Title -->
+    <string name="app\_name">PawMinder</string>
+
+    <!-- Input Labels -->
+    <string name="pet\_name\_label">Pet Name:</string>
+    <string name="task\_label">Task:</string>
+    <string name="date\_time\_label">Date &amp; Time:</string>
+
+    <!-- Placeholders -->
+    <string name="pet\_name\_hint">e.g. Choco</string>
+    <string name="select\_date\_time">Select date &amp; time</string>
+
+    <!-- Buttons -->
+    <string name="add\_task">Add Task</string>
+    <string name="mark\_finished">Mark as Finished</string>
+
+    <!-- Section Titles -->
+    <string name="incoming\_tasks">Incoming Tasks</string>
+    <string name="view\_finished">View Finished Tasks →</string>
+    <string name="finished\_tasks\_title">Finished Tasks</string>
+    <string name="back\_to\_main">← Back to PawMinder</string>
+
+    <!-- Task Dropdown Values -->
+    <string-array name="task\_types">
+        <item>Feeding</item>
+        <item>Walking</item>
+        <item>Grooming</item>
+        <item>Vet Check</item>
+        <item>Medicine</item>
+    </string-array>
+
+</resources>
